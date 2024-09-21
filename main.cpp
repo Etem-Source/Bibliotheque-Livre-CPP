@@ -141,7 +141,7 @@ int BookAvailabeManager()
 {
     cout << "= = = = = = = = = = = = = = = = = = = = =" << endl;
     cout << "<!< Bienvenue dans la gestion de la liste des livres disponibles. >!>" << endl;
-    cout << "Que souhtaiez-vous faire ? " << endl;
+    cout << "Que souhaitez-vous faire ? " << endl;
     cout << "1. Ajouter un nouveau livre." << endl;
     cout << "2. Rechercher un livre et afficher ses informations." << endl;
     cout << "3. Mettre a jour les informations concernant un livre."  << endl;
@@ -249,7 +249,7 @@ int ClientManager()
 {
     cout << "= = = = = = = = = = = = = = = = = = = = =" << endl;
     cout << "<!< Bienvenue dans la gestion de la liste des clients. >!>" << endl;
-    cout << "Que souhtaiez-vous faire ? " << endl;
+    cout << "Que souhaitez-vous faire ? " << endl;
     cout << "1. Ajouter un nouveau client." << endl;
     cout << "2. Rechercher un client et afficher ses informations." << endl;
     cout << "3. Mettre a jour les informations concernant un client."  << endl;
@@ -372,7 +372,7 @@ int CommandsManager()
 {
     cout << "= = = = = = = = = = = = = = = = = = = = =" << endl;
     cout << "<!< Bienvenue dans la gestion de la liste des commandes. >!>" << endl;
-    cout << "Que souhtaiez-vous faire ? " << endl;
+    cout << "Que souhaitez-vous faire ? " << endl;
     cout << "1. Ajouter un livre d'un client." << endl;
     cout << "2. Mettre a jour les informations d'un livre d'un client." << endl;
     cout << "3. Supprimer un livre d'un client."  << endl;
@@ -405,7 +405,7 @@ int main()
     {
     cout << "= = = = = = = = = = = = = = = = = = = = =" << endl;
     cout << "<!<  Bienvenue dans la gestion principale de la librairie. >!>" << endl;
-    cout << "Que souhtaiez-vous faire ? " << endl;
+    cout << "Que souhaitez-vous faire ? " << endl;
     cout << "1. Gerer la liste des livres disponibles." << endl;
     cout << "2. Gerer la liste des clients." << endl;
     cout << "3. Gerer la liste des commandes."  << endl;
