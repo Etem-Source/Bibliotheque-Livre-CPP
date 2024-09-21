@@ -1,14 +1,17 @@
 # 📖 Bibliothèque Livres
 Ce projet permet de gérer des livres, des clients. On peut y effectuer les tâches suivantes : 
+
 * Gérer la liste des livres disponibles
   * Ajouter un nouveau livre
   * Rechercher un livre et afficher ses informations
   * Mettre à jour les informations concernant un livre
   * Supprimer un livre de la liste
+    
 * Gérer la liste des clients
   * Ajouter un nouveau client
   * Rechercher un client et afficher ses informations
   * Mettre à jour les informations concernant un client
+    
 * Gérer la liste des commandes
   * Ajouter un livre d'un client
   * Mettre à jour les informations d'un livre d'un client
